@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Sites
-[CV] | [Blog](https://velog.io/@_chominseo/posts)
+[CV](https://minseocho.notion.site/MinSeo-Cho-390ac38c120f4eddac35a8f640c093c4?pvs=4) | [Blog](https://velog.io/@_chominseo/posts)
 
 ## Experiences
 - `2019.03 ~ Present` 고려대학교 전기전자공학부, 심화전공
