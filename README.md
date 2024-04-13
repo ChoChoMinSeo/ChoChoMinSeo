@@ -33,5 +33,7 @@ Here are some ideas to get you started:
 - `2023.03` [제2회 마인즈랩 마음톤](https://github.com/ChoChoMinSeo/ai_ex)
 
 ## Tech Stacks
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white"/> 
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Python&logoColor=white"/>
+
