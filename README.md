@@ -31,3 +31,6 @@ Here are some ideas to get you started:
 - `2023.07` [SW중심대학 공동 AI 경진대회 2023](https://github.com/KURasengan/Satellite-Image-Building-Area-Segmentation)
 - `2023.05` [SKYCC 해커톤](https://github.com/ChoChoMinSeo/mocurMob)
 - `2023.03` [제2회 마인즈랩 마음톤](https://github.com/ChoChoMinSeo/ai_ex)
+
+## Tech Stacks
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Python&logoColor=white"/>
