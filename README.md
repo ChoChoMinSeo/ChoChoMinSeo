@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - `2023.03 ~ Present` 고려대학교 전기전자공학부 학회 하나와영
 - `2023.07 ~ 2023.08` [QUIIL Lab, Korea Univ.](https://www.kwaklab.net/) Research Intern
 - `2024.07 ~ 2024.08` [MCL, Korea Univ.](https://mcl.korea.ac.kr/) Research Intern
-- 
+
 ## Projects
 - `2024.03 ~ 2024.06` [졸업논문](https://github.com/ChoChoMinSeo/RGBMoME)
 - `2024.04 ~ 2024.06` [하나와영 파이썬 오마카세 스터디장](https://github.com/koreaoaz/Python_Omakase)
