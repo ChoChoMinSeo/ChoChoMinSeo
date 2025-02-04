@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 [CV](https://minseocho.notion.site/MinSeo-Cho-390ac38c120f4eddac35a8f640c093c4?pvs=4) | [Blog](https://velog.io/@_chominseo/posts)
 
 ## Experiences
-- `2019.03 ~ Present` 고려대학교 전기전자공학부, 심화전공
-- `2023.03 ~ Present` 고려대학교 전기전자공학부 학회 하나와영
+- `2025.03 ~ Present` 고려대학교 전기전자공학부, 석박사 통합과정 [MCL, Korea Univ.](https://mcl.korea.ac.kr/)
+- `2019.03 ~ 2025.02` 고려대학교 전기전자공학부, 심화전공
+- `2023.03 ~ 2025.02` 고려대학교 전기전자공학부 학회 하나와영
 - `2023.07 ~ 2023.08` [QUIIL Lab, Korea Univ.](https://www.kwaklab.net/) Research Intern
 - `2024.07 ~ 2024.08` [MCL, Korea Univ.](https://mcl.korea.ac.kr/) Research Intern
 
