@@ -18,14 +18,16 @@ Here are some ideas to get you started:
 [CV](https://minseocho.notion.site/MinSeo-Cho-390ac38c120f4eddac35a8f640c093c4?pvs=4) | [Blog](https://velog.io/@_chominseo/posts)
 
 ## Experiences
-- `2025.03 ~ Present` 고려대학교 전기전자공학부, 석사과정 [MCL, Korea Univ.](https://mcl.korea.ac.kr/)
-- `2019.03 ~ 2025.02` 고려대학교 전기전자공학부, 심화전공
-- `2023.03 ~ 2025.02` 고려대학교 전기전자공학부 학회 하나와영
-- `2023.07 ~ 2023.08` [QUIIL Lab, Korea Univ.](https://www.kwaklab.net/) Research Intern
+- `2025.03 ~ 2027.02` 고려대학교 전기전자공학부, 석사과정 [MCL, Korea Univ.](https://mcl.korea.ac.kr/)
 - `2024.07 ~ 2025.02` [MCL, Korea Univ.](https://mcl.korea.ac.kr/) Research Intern
+- `2023.07 ~ 2023.08` [QUIIL Lab, Korea Univ.](https://www.kwaklab.net/) Research Intern
+- `2023.03 ~ 2025.02` 고려대학교 전기전자공학부 학회 하나와영
+- `2019.03 ~ 2025.02` 고려대학교 전기전자공학부, 심화전공
 
 ## Computer Vision Projects
-- `2024.03 ~ 2024.06` [졸업논문](https://github.com/ChoChoMinSeo/RGBMoME)
+- `2025.04 ~ 2026.11` [ECM (IEEE Access)](https://github.com/ChoChoMinSeo/ECM)
+- `2024.07 ~        ` [Eigen3dLane]
+- `2024.03 ~ 2024.06` [학부 졸업논문](https://github.com/ChoChoMinSeo/RGBMoME)
 - `2024.03` [6th 2024 AI spark challenge](https://github.com/ChoChoMinSeo/ai_spark_oaz)
 - `2023.09 ~ 2023.12` [하나와영 CV 스터디](https://github.com/koreaoaz/OAZ_Computer_Vision_2023)
 - `2023.07` [SW중심대학 공동 AI 경진대회 2023](https://github.com/KURasengan/Satellite-Image-Building-Area-Segmentation)
