@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## Computer Vision Projects
 - `2025.04 ~ 2026.11` [ECM (IEEE Access)](https://github.com/ChoChoMinSeo/ECM)
-- `2024.07 ~        ` [Eigen3dLane]
+- `2024.07 ~` Eigen3dLanes
 - `2024.03 ~ 2024.06` [학부 졸업논문](https://github.com/ChoChoMinSeo/RGBMoME)
 - `2024.03` [6th 2024 AI spark challenge](https://github.com/ChoChoMinSeo/ai_spark_oaz)
 - `2023.09 ~ 2023.12` [하나와영 CV 스터디](https://github.com/koreaoaz/OAZ_Computer_Vision_2023)
